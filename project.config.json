@@ -1,0 +1,55 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": [],
+		"include": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"condition": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.33.0",
+	"appid": "wxcf5102ada68a7ac9",
+	"projectname": "%E4%B8%AA%E4%BA%BA%E7%9B%B8%E5%86%8C",
+	"cloudfunctionRoot": "cloud/functions/",
+	"condition": {
+		"miniprogram": {
+			"list": [
+				{
+					"name": "评论",
+					"pathName": "pages/review/review",
+					"query": ""
+				},
+				{
+					"name": "编辑",
+					"pathName": "pages/detail/detail",
+					"query": "url=https://tcb-def7de.tcb.qcloud.la/1531733018488-1224544.png"
+				},
+				{
+					"name": "相册详情页",
+					"pathName": "pages/photos/photos",
+					"query": "id=0"
+				},
+				{
+					"name": "上传图片",
+					"pathName": "pages/photos/add",
+					"query": ""
+				}
+			]
+		}
+	},
+	"editorSetting": {
+		"tabIndent": "tab",
+		"tabSize": 4
+	}
+}
