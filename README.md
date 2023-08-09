@@ -12,7 +12,7 @@
 
 ## 云开发公众号
 
-更多云开发使用技巧及大前端 Serverless 行业动态，扫码关注我们~
+关注公众号，回复“客服”获取云开发、微搭咨询和使用帮助
 
 <p align="center">
     <img src="https://puui.qpic.cn/vupload/0/20190603_1559545575934_lettsbvkvdn.jpeg/0" width="200px">
